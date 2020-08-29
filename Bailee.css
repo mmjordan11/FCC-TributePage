@@ -1,0 +1,57 @@
+body {
+  background-color: gray;
+}
+
+header {
+  color: #74B8CB;
+  background-color: #132B32;
+  text-align: center;
+  padding: 10px;
+  border-radius: 50vh;
+}
+
+figcaption {
+  font-size: 20px
+}
+
+article {
+  background-color: #132B32;
+  border-radius: 50px;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding:10px;
+}
+
+#image {
+  width: 25vw;
+  max-width: 100%;
+  align-self: center;
+  height: auto;
+  border-radius: 50%;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  color: #74B8CB;
+  font-size: 20px;
+  padding: 25px 10%;
+}
+
+#tribute-link {
+  display: block;
+  color: #74B8CB;
+  background-color: #132B32;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+  width: 15em;
+  margin: auto;
+  border-radius: 50vh;
+}
